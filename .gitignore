@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+!.env.example
+trabajo_alumno/
+resultados/
+modelos/
+*.pt
+*.pth
+*.ckpt
+*.safetensors

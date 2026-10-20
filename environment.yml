@@ -1,0 +1,14 @@
+name: vision-ia-producto
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab>=4,<5
+  - ipykernel>=6,<7
+  - numpy>=1.26,<3
+  - matplotlib>=3.8,<4
+  - pillow>=10,<13
+  - pandas>=2.2,<3
+  - scikit-learn>=1.4,<2
+  - scikit-image>=0.23,<1
