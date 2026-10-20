@@ -26,6 +26,11 @@ No necesitas instalar Git ni tener cuenta de GitHub para descargar un repositori
 
 Consulta el [programa detallado](docs/programa.md).
 
+## Manual de apoyo
+
+[Descargar el manual completo en PDF](manual/manual_vision_artificial.pdf). Incluye fundamentos matemáticos intuitivos, desarrollo de los seis temas, ejemplos y 60 ejercicios con soluciones. Complementa las presentaciones y los notebooks; algunas soluciones anticipan los ejercicios propuestos.
+
+
 ## Trabajar en local
 
 Instala una distribución de conda adecuada a tu sistema. En Windows utiliza su terminal de conda; en Mac, Terminal. Descarga o clona el repositorio, entra en su carpeta y ejecuta:
