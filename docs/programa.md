@@ -1,6 +1,6 @@
 # Programa docente · 15 horas
 
-Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, modificar y explicar. Las sesiones 1–5 reservan 15 min para el problema y repaso, 40 para conceptos, 20 para demostración, 10 para descanso, 50 para práctica y 15 para puesta en común (150 min).
+Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, modificar y explicar. Cada sesión alterna explicaciones y actividades, incluye un descanso y suma 150 minutos. La distribución concreta figura en la presentación y en la guía docente de cada tema.
 
 ## Sesión 1. Imágenes como datos
 
@@ -14,7 +14,7 @@ Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, 
 
 **Objetivo:** Distinguir entrenamiento, validación y prueba; interpretar errores.
 
-**Práctica:** Adaptar un clasificador preparado a un conjunto pequeño, separando piezas de origen entre particiones.
+**Práctica:** Comparar regresión logística y una red densa sobre imágenes sintéticas, separando piezas entre entrenamiento, validación y prueba. Introducir CNN y transferencia de forma conceptual.
 
 **Evidencia de aprendizaje:** Matriz de confusión y explicación de dos errores.
 
@@ -22,7 +22,7 @@ Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, 
 
 **Objetivo:** Distinguir etiqueta, caja y máscara; entender el efecto de un umbral.
 
-**Práctica:** Aplicar modelos preparados a imágenes de piezas y comparar resultados.
+**Práctica:** Entrenar un segmentador ligero pieza/fondo, obtener regiones y cajas y evaluar máscaras y detecciones sobre escenas sintéticas. Introducir detectores profundos y segmentación de instancias de forma conceptual.
 
 **Evidencia de aprendizaje:** Tres imágenes anotadas y análisis de fallos.
 

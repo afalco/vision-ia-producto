@@ -1,19 +1,19 @@
-# Sesión 2. Clasificación
+# Tema 2 · Aprender a clasificar imágenes
 
-**Estado:** guía inicial; notebook y recursos pendientes de preparar.
+Sesión de 150 minutos con seis actividades intercaladas.
 
-## Objetivo
+- [Presentación PDF](02_clasificacion.pdf).
+- [Notebook de actividades](02_clasificacion.ipynb).
+- [Abrir en Colab](https://colab.research.google.com/github/afalco/vision-ia-producto/blob/main/02_clasificacion/02_clasificacion.ipynb) (disponible tras subir los cambios).
 
-Distinguir entrenamiento, validación y prueba; interpretar errores.
+## Contenidos
 
-## Actividad prevista
+Datos y etiquetas; separación por pieza; modelos de referencia; red neuronal densa; entrenamiento y validación; matriz de confusión; cambios de condiciones. La presentación introduce también CNN y aprendizaje por transferencia de forma conceptual.
 
-Adaptar un clasificador preparado a un conjunto pequeño, separando piezas de origen entre particiones.
+## Requisitos y alcance
 
-## Entregable
+CPU y entorno del curso: NumPy, Matplotlib y scikit-learn. Sin descargas ni servicios externos. Se generan 540 imágenes de 180 piezas sintéticas de tres clases. La práctica entrena desde cero regresión logística y MLP; no ejecuta CNN ni modelos preentrenados. Los dibujos no representan una validación industrial.
 
-Matriz de confusión y explicación de dos errores.
+## Entrega
 
-## Preparación docente pendiente
-
-Seleccionar y documentar datos, preparar el notebook guiado, comprobar tiempo de ejecución y recursos en Colab, añadir ejercicios y validar resultados.
+Notebook con recuentos por partición, comparación en validación, curvas, matriz de confusión y dos errores o limitaciones explicados. No elegir hiperparámetros consultando prueba.

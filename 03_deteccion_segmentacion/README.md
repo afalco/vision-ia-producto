@@ -1,19 +1,19 @@
-# Sesión 3. Detección y segmentación
+# Tema 3 · Detección y segmentación
 
-**Estado:** guía inicial; notebook y recursos pendientes de preparar.
+Sesión de 150 minutos con seis actividades intercaladas.
 
-## Objetivo
+- [Presentación PDF](03_deteccion_segmentacion.pdf).
+- [Notebook de actividades](03_deteccion_segmentacion.ipynb).
+- [Abrir en Colab](https://colab.research.google.com/github/afalco/vision-ia-producto/blob/main/03_deteccion_segmentacion/03_deteccion_segmentacion.ipynb) (tras subir los cambios).
 
-Distinguir etiqueta, caja y máscara; entender el efecto de un umbral.
+## Objetivos
 
-## Actividad prevista
+Distinguir etiqueta, caja, máscara semántica e instancias; ajustar umbrales en validación; obtener componentes y cajas; interpretar IoU, precisión y recall; analizar piezas en contacto y cambios de color.
 
-Aplicar modelos preparados a imágenes de piezas y comparar resultados.
+## Requisitos y alcance
 
-## Entregable
+CPU; NumPy, Matplotlib, scikit-learn y scikit-image del entorno del curso. Sin descargas. Las escenas y referencias se generan por código. El modelo aprende pieza/fondo a partir de RGB y después se agrupan píxeles para obtener cajas. No es un detector profundo ni un modelo de instancias. La presentación introduce estas familias de forma conceptual. Las imágenes sintéticas no validan un sistema industrial.
 
-Tres imágenes anotadas y análisis de fallos.
+## Entrega
 
-## Preparación docente pendiente
-
-Seleccionar y documentar datos, preparar el notebook guiado, comprobar tiempo de ejecución y recursos en Colab, añadir ejercicios y validar resultados.
+Tres escenas anotadas, tabla de métricas y dos errores explicados. El notebook guarda `tema3_resultados.png`; descárgalo antes de cerrar Colab. La evaluación de cajas es docente, a IoU mínima 0,5, sin cálculo de AP/mAP.
