@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-10-20",
+  "herramienta": "image_gen integrada en Codex",
+  "modelo": "No expuesto por la herramienta en la respuesta",
+  "semilla": "No expuesta; generaciones independientes, sin control de semilla",
+  "comparacion": "Dos muestras ilustrativas; no experimento causal del efecto del prompt",
+  "conceptos": [
+    {
+      "archivo": "concepto_A.png",
+      "prompt": "Use case: product-mockup. Asset type: teaching example for a course in product design and additive manufacturing. Primary request: create a visually striking futuristic desktop smartphone stand, as a single product concept render, clean neutral white studio background, three-quarter view, matte blue polymer, no phone, no text, no logos, no dimensions. This is a concept image, not a CAD drawing."
+    },
+    {
+      "archivo": "concepto_B.png",
+      "prompt": "Use case: product-mockup. Asset type: teaching example for product design and additive manufacturing. Primary request: desktop smartphone stand concept intended for a later FDM manufacturing review, single continuous matte blue polymer body, broad flat rectangular base, a simple straight inclined planar backrest with a gentle filleted base junction, exactly two short thick retaining tabs on front edge with an open central gap for charging cable. No floating parts, no extremely thin members, no lattice, no decorative perforations, no metallic fittings. No phone, no text, no logos, no dimensions. Neutral white studio background, three-quarter product view. This is a visual concept only, not a verified CAD or print-ready design."
+    }
+  ]
+}

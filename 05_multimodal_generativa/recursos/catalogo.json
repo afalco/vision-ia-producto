@@ -1,0 +1,59 @@
+{
+  "imagenes": [
+    {
+      "id": "taza_azul",
+      "archivo": "taza_azul.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "taza_roja",
+      "archivo": "taza_roja.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "lampara",
+      "archivo": "lampara.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "silla",
+      "archivo": "silla.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "arandela",
+      "archivo": "arandela.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "escuadra",
+      "archivo": "escuadra.png",
+      "origen": "Ilustración procedimental original del curso"
+    },
+    {
+      "id": "concepto_A",
+      "archivo": "concepto_A.png",
+      "origen": "Imagen generada con la herramienta integrada image_gen; concepto visual sin validación de fabricación"
+    },
+    {
+      "id": "concepto_B",
+      "archivo": "concepto_B.png",
+      "origen": "Imagen generada con la herramienta integrada image_gen; concepto visual sin validación de fabricación"
+    }
+  ],
+  "consultas": [
+    "a drawing of a blue mug",
+    "a drawing of a red mug",
+    "a drawing of a yellow desk lamp",
+    "a drawing of a wooden chair",
+    "a drawing of a metal washer",
+    "a drawing of an L shaped bracket",
+    "a blue desktop smartphone stand",
+    "a green mug",
+    "a blue mug without a handle",
+    "un dibujo de una taza azul",
+    "a photo of a blue mug",
+    "a blue cup with a handle",
+    "two blue mugs"
+  ]
+}

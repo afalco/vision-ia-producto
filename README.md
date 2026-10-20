@@ -21,7 +21,7 @@ No necesitas instalar Git ni tener cuenta de GitHub para descargar un repositori
 | 2 | Clasificación | [PDF y práctica](02_clasificacion/README.md) | PDF y seis actividades preparados |
 | 3 | Detección y segmentación | [PDF y práctica](03_deteccion_segmentacion/README.md) | PDF y seis actividades preparados |
 | 4 | Inspección y anomalías | [PDF y práctica](04_inspeccion_anomalias/README.md) | PDF y seis actividades preparados |
-| 5 | Modelos multimodales y generativos | [Guía](05_multimodal_generativa/README.md) | Pendiente de desarrollar |
+| 5 | Modelos multimodales y generativos | [PDF y prácticas](05_multimodal_generativa/README.md) | PDF, seis actividades y ampliación CLIP preparados |
 | 6 | Proyecto aplicado | [Enunciado inicial](06_proyecto/README.md) | Propuesta para revisión docente |
 
 Consulta el [programa detallado](docs/programa.md).
@@ -47,10 +47,10 @@ El entorno cubre los notebooks iniciales y no requiere GPU. Las dependencias esp
 
 ## Material y entregas
 
-Las imágenes iniciales se generan mediante código, sin descargar archivos externos. Guarda tus experimentos en `trabajo_alumno/` y los resultados en `resultados/`; ambas carpetas quedan fuera del seguimiento de Git. Las entregas se realizarán por el canal que indique el profesor.
+Las primeras prácticas generan imágenes mediante código. El tema 5 incluye ilustraciones, conceptos generados y vectores reales de CLIP con procedencia registrada; en Colab descarga estos recursos pequeños del repositorio. Guarda tus experimentos en `trabajo_alumno/` y los resultados en `resultados/`; ambas carpetas quedan fuera del seguimiento de Git. Las entregas se realizarán por el canal que indique el profesor.
 
 ## Uso y publicación
 
-Los temas 1 a 4 disponen de presentación PDF y práctica guiada; las sesiones restantes están en desarrollo. Los fuentes de las presentaciones y las guías docentes se conservan fuera del repositorio público. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
+Los temas 1 a 5 disponen de presentación PDF y práctica guiada; las sesiones restantes están en desarrollo. Los fuentes de las presentaciones y las guías docentes se conservan fuera del repositorio público. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
 
 Para publicar desde el Mac, consulta [las instrucciones de GitHub Desktop](docs/publicar_github.md).

@@ -38,7 +38,7 @@ Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, 
 
 **Objetivo:** Entender similitud imagen-texto y generación condicionada.
 
-**Práctica:** Comparar búsquedas por descripción y revisar una demostración de generación de conceptos de producto.
+**Práctica:** Comparar búsquedas con vectores reales de CLIP, examinar candidatas y límites del lenguaje, ilustrar el añadido de ruido y revisar dos conceptos generados con sus prompts. Ampliación opcional con CLIP en vivo.
 
 **Evidencia de aprendizaje:** Comparación de resultados y límites para su fabricación.
 

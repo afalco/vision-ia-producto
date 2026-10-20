@@ -1,0 +1,23 @@
+{
+  "modelo": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "torch": "2.14.1",
+  "transformers": "4.57.6",
+  "procesador": "CLIPProcessor(use_fast=False)",
+  "fecha": "2026-10-20",
+  "vector_dim": 512,
+  "normalizados": true,
+  "origen": "Inferencia real del modelo preentrenado; no vectores inventados ni aprendidos de las etiquetas del catálogo.",
+  "sha256_archivos": {
+    "taza_azul.png": "12ddb7853186d0d751dbb6eea75abdd5c2ba415d1cb62ae274dd7995da212d29",
+    "taza_roja.png": "d943398ca25ce0dc538e3acae3eca9a493700e8b4f947ab06de2da9ff3f74304",
+    "lampara.png": "ff8ccd1033543808f59f6b0812dfa3e27b634f3b697a8dc0cd8873621b3d5787",
+    "silla.png": "0d6d2632d30856fec9bec3a394117d6b84feb7d06bc5eba0625dd96509f8f040",
+    "arandela.png": "13cac489782b37de93bffa9272e0a3bfb4446709965df265b7babb284fb22235",
+    "escuadra.png": "d1822a1c2f42ab9e521c0f84ec4e8eda7246026f7eab5a4c99478d9aa2efd442",
+    "concepto_A.png": "e4fe445204a387e770aafb16fef570c72398021c9ca2fd65faa7a4c04a8fdc17",
+    "concepto_B.png": "8b5b1bf5602fb12b363fd43f6660d0722a6f39d5955b0038ba26229ae26be192",
+    "clip_vectores.npz": "1df3b068ed287a5daf439777856871b55541c4e0e658cfcba440f706d45b0f57",
+    "catalogo.json": "f2219cf04e8c758102ad9b7c6a90e07997cb60a017ebe38332da77e95a01fb89"
+  }
+}
