@@ -46,9 +46,9 @@ Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, 
 
 **Objetivo:** Formular un problema, elegir una técnica y evaluar el resultado.
 
-**Práctica:** Desarrollar en parejas una propuesta de clasificación, segmentación o inspección; también se admite búsqueda visual.
+**Práctica:** Desarrollar en parejas una comparación de clasificación, detección/segmentación, anomalías o búsqueda visual. Usar el ejemplo de arranque o las prácticas anteriores y justificar la decisión con validación y prueba separadas.
 
-**Evidencia de aprendizaje:** Notebook ejecutado, ejemplos de fallos y presentación de cinco minutos.
+**Evidencia de aprendizaje:** Notebook ejecutado, informe breve, evidencias y defensa de cinco minutos. Rúbrica: problema/datos 25 %, método 25 %, evaluación/errores 30 % y claridad/reproducibilidad 20 %.
 
 ## Evaluación propuesta
 

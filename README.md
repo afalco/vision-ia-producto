@@ -22,7 +22,7 @@ No necesitas instalar Git ni tener cuenta de GitHub para descargar un repositori
 | 3 | Detección y segmentación | [PDF y práctica](03_deteccion_segmentacion/README.md) | PDF y seis actividades preparados |
 | 4 | Inspección y anomalías | [PDF y práctica](04_inspeccion_anomalias/README.md) | PDF y seis actividades preparados |
 | 5 | Modelos multimodales y generativos | [PDF y prácticas](05_multimodal_generativa/README.md) | PDF, seis actividades y ampliación CLIP preparados |
-| 6 | Proyecto aplicado | [Enunciado inicial](06_proyecto/README.md) | Propuesta para revisión docente |
+| 6 | Proyecto aplicado | [PDF, notebook y rúbrica](06_proyecto/README.md) | Taller y materiales preparados |
 
 Consulta el [programa detallado](docs/programa.md).
 
@@ -43,7 +43,7 @@ Selecciona el núcleo **Python (vision-ia-producto)**. Para actualizar el entorn
 conda env update -f environment.yml --prune
 ```
 
-El entorno cubre los notebooks iniciales y no requiere GPU. Las dependencias específicas de modelos de sesiones posteriores se incorporarán al desarrollar esas prácticas. Las versiones tienen límites de compatibilidad, pero este archivo no es un bloqueo exacto de versiones. Falta validar una instalación limpia tanto en Mac como en Windows y ejecutar los notebooks en Colab.
+El entorno cubre las rutas principales de los seis temas y no requiere GPU. La ampliación opcional de CLIP del tema 5 instala dependencias adicionales en un entorno separado o Colab. Las versiones tienen límites de compatibilidad, pero este archivo no es un bloqueo exacto de versiones. Falta validar una instalación limpia tanto en Mac como en Windows y ejecutar los notebooks en Colab.
 
 ## Material y entregas
 
@@ -51,6 +51,6 @@ Las primeras prácticas generan imágenes mediante código. El tema 5 incluye il
 
 ## Uso y publicación
 
-Los temas 1 a 5 disponen de presentación PDF y práctica guiada; las sesiones restantes están en desarrollo. Los fuentes de las presentaciones y las guías docentes se conservan fuera del repositorio público. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
+Los seis temas disponen de presentación PDF y práctica o taller guiado. Falta validar el recorrido completo en Colab y en instalaciones limpias de los sistemas previstos. Los fuentes de las presentaciones y las guías docentes se conservan fuera del repositorio público. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
 
 Para publicar desde el Mac, consulta [las instrucciones de GitHub Desktop](docs/publicar_github.md).

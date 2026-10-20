@@ -1,27 +1,25 @@
-# Sesión 6. Proyecto aplicado
+# Tema 6 · Proyecto aplicado
 
-**Estado:** guía inicial; notebook y recursos pendientes de preparar.
+Taller de 150 minutos en parejas para integrar las técnicas del curso.
 
-## Objetivo
+- [Presentación PDF](06_proyecto.pdf).
+- [Notebook de trabajo](06_proyecto.ipynb).
+- [Abrir en Colab](https://colab.research.google.com/github/afalco/vision-ia-producto/blob/main/06_proyecto/06_proyecto.ipynb) (tras subir los cambios).
+- [Enunciado y rutas](enunciado.md).
+- [Rúbrica](rubrica.md).
 
-Formular un problema, elegir una técnica y evaluar el resultado.
+## Cómo empezar
 
-## Actividad prevista
+Elige clasificación, detección/segmentación, anomalías o búsqueda visual. Reutiliza el notebook de su tema y la estructura de encargo, datos, decisiones, evaluación y defensa del tema 6.
 
-Desarrollar en parejas una propuesta de clasificación, segmentación o inspección; también se admite búsqueda visual.
+El notebook incluye un ejemplo ejecutable de clasificación con datos sintéticos, CPU y el entorno básico. No descarga archivos ni entrena modelos grandes. Es una base para introducir un cambio propio, no una entrega terminada. La evaluación de prueba está desactivada por defecto: primero completa la selección en validación y registra la decisión.
 
-## Entregable
+## Entrega
 
-Notebook ejecutado, ejemplos de fallos y presentación de cinco minutos.
+Notebook ejecutado, informe breve y evidencias. La plantilla exporta archivos en `resultados/tema6/pendiente/` o `resultados/tema6/evaluado/`, según el estado; conserva el informe como borrador para que lo completes. En Colab, descarga tus archivos antes de cerrar la sesión.
 
-## Preparación docente pendiente
+## Tiempo y defensa
 
-Seleccionar y documentar datos, preparar el notebook guiado, comprobar tiempo de ejecución y recursos en Colab, añadir ejercicios y validar resultados.
+15 min de encargo, 20 de datos, 30 de experimentos, 10 de descanso, 15 de evaluación, 15 de informe, 35 de defensas o estaciones y 10 de cierre. Hasta cinco equipos pueden defender cinco minutos y responder dos minutos de preguntas. Para más equipos, se emplean estaciones simultáneas.
 
-## Propuesta de proyecto y evaluación
-
-Define el usuario y la decisión que ayudará a tomar el sistema. Describe los datos, su procedencia y sus límites. Compara una referencia sencilla con tu propuesta y muestra ejemplos donde falle. No basta con seleccionar las mejores imágenes.
-
-Rúbrica propuesta: problema y datos 25 %, método y justificación 25 %, evaluación y análisis de errores 30 %, claridad y reproducibilidad 20 %.
-
-Distribución de la sesión: 15 min de organización, 20 de diseño, 60 de trabajo, 10 de descanso, 35 de presentaciones y 10 de cierre. El tiempo de presentación se ajustará al número de grupos.
+La rúbrica valora problema/datos 25 %, método 25 %, evaluación/errores 30 % y claridad/reproducibilidad 20 %. La ponderación en la asignatura queda a criterio de la coordinación.
