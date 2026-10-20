@@ -30,7 +30,7 @@ Perfil: Python de usuario y matemáticas básicas. Método: ejecutar, observar, 
 
 **Objetivo:** Relacionar falsas alarmas y defectos omitidos con el umbral de decisión.
 
-**Práctica:** Construir una referencia de piezas correctas y evaluar defectos sin mezclar datos de prueba con ajuste.
+**Práctica:** Aprender una referencia estadística de superficies correctas, comparar criterios de umbral en validación y evaluar falsas alarmas y omisiones en prueba. Analizar cambios de captura y frecuencia de defectos.
 
 **Evidencia de aprendizaje:** Tabla de errores y justificación del umbral.
 
