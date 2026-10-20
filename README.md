@@ -17,7 +17,7 @@ No necesitas instalar Git ni tener cuenta de GitHub para descargar un repositori
 | Sesión | Tema | Material | Estado |
 |---|---|---|---|
 | 0 | Preparación | [Comprobar entorno](00_preparacion/00_comprobar_entorno.ipynb) | Notebook inicial preparado |
-| 1 | Imágenes como datos | [Práctica](01_imagenes_como_datos/01_imagenes_como_datos.ipynb) | Notebook inicial preparado |
+| 1 | Imágenes como datos | [PDF y práctica](01_imagenes_como_datos/README.md) | PDF y seis actividades preparados |
 | 2 | Clasificación | [Guía](02_clasificacion/README.md) | Pendiente de desarrollar |
 | 3 | Detección y segmentación | [Guía](03_deteccion_segmentacion/README.md) | Pendiente de desarrollar |
 | 4 | Inspección y anomalías | [Guía](04_inspeccion_anomalias/README.md) | Pendiente de desarrollar |
@@ -51,6 +51,6 @@ Las imágenes iniciales se generan mediante código, sin descargar archivos exte
 
 ## Uso y publicación
 
-Esta es una base de trabajo del curso, no las seis clases terminadas. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
+El tema 1 dispone de presentación PDF y práctica guiada; las sesiones restantes están en desarrollo. Los fuentes de las presentaciones y las guías docentes se conservan fuera del repositorio público. No incorpora libros, presentaciones ni materiales de otras ediciones. Los modelos y datos externos que se añadan deberán documentar su origen y condiciones de uso. Por ahora no se concede una licencia de redistribución; el docente deberá elegirla antes de promover la reutilización del material.
 
 Para publicar desde el Mac, consulta [las instrucciones de GitHub Desktop](docs/publicar_github.md).
